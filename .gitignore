@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+#*
+save
+*.npz
+out
+data
+*.npy
+save_backup
+imgs
